@@ -1,0 +1,22 @@
+{
+  "project": "manga-99",
+  "app_name": "Manga MM",
+  "inspiration": "User-provided Manga XW V13 mockup screenshots",
+  "theme": {
+    "background": "#020a13",
+    "card": "#061521",
+    "panel": "#081928",
+    "stroke": "#1c415d",
+    "neon_cyan": "#10d8f9",
+    "blue": "#3698ff",
+    "purple": "#9571ff",
+    "text_primary": "#f5f8ff",
+    "text_secondary": "#9cb3cc"
+  },
+  "spacing": [4,8,12,16,24,32],
+  "radii_px": {"cards":15,"controls":10,"bottom_nav":24,"image_covers":9},
+  "bottom_tabs": ["Home","Sources","Library","Reader","Settings"],
+  "component_tokens": ["brand header","source pill","search bar","cover card","progress bar","recent site","library folder","bottom navigation","reader panel","chapter row","bottom sheet","neon icon"],
+  "supported_themes": ["blue","purple","pink","green","red"],
+  "motion": {"entrance_ms":280,"sheet_ms":250,"pulse_period_s":2,"lottie_files":37}
+}

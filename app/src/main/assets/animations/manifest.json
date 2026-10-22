@@ -1,0 +1,376 @@
+{
+  "format": "Lottie JSON",
+  "origin": "custom-created-for-Manga-MM",
+  "animations": [
+    {
+      "file": "neon_loader.json",
+      "description": "Animated loading orbit for network/page transitions",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "book_open.json",
+      "description": "Book loading breathing effect",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "bookmark_pulse.json",
+      "description": "Bookmark animation for save events",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "download_complete.json",
+      "description": "Download progress indication",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "page_turn.json",
+      "description": "Page transition micro-interaction",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "translate_scan.json",
+      "description": "OCR scan visual, actual OCR model not included",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "swipe_hint.json",
+      "description": "Swipe gesture hint",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "heart_pulse.json",
+      "description": "Following/favorite burst animation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "success_check.json",
+      "description": "Success/check status animation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "loading_dots.json",
+      "description": "Three dots breathing during loading",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "loading_bars.json",
+      "description": "Bar loader for network content",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "loading_orbit.json",
+      "description": "Circular activity indicator",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "loading_ellipsis.json",
+      "description": "Pulsating wait state",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "loading_network.json",
+      "description": "Network connection progress",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "browser_open.json",
+      "description": "Browser panel opening animation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "browser_back.json",
+      "description": "Navigate backward transition",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "browser_forward.json",
+      "description": "Navigate forward transition",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "bottom_sheet_up.json",
+      "description": "Bottom sheet opening",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "bottom_sheet_down.json",
+      "description": "Bottom sheet dismissal",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "tab_switch.json",
+      "description": "Navigation tab selection",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "source_added.json",
+      "description": "New source success indication",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "source_switch.json",
+      "description": "Source change animation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "chapter_load.json",
+      "description": "Chapter loading activity",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "vertical_scroll.json",
+      "description": "Webtoon vertical scroll hint",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "horizontal_swipe.json",
+      "description": "Horizontal page turn hint",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "reading_progress.json",
+      "description": "Progress activity ring",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "bookmark_saved.json",
+      "description": "Bookmark saved affirmation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "favorite_pop.json",
+      "description": "Favorite bounce animation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "night_theme.json",
+      "description": "Night mode activation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "translation_bubble.json",
+      "description": "Translation bubble appearing",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "zoom_in.json",
+      "description": "Zoom gesture helper",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "zoom_reset.json",
+      "description": "Zoom return to normal",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "download_start.json",
+      "description": "Download beginning",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "download_progress.json",
+      "description": "Download progress spinner",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "success_toast.json",
+      "description": "Success snackbar pop",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "wifi_retry.json",
+      "description": "Retry connection animation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    },
+    {
+      "file": "backup_export.json",
+      "description": "Exporting backup files animation",
+      "fps": 60,
+      "duration_seconds": 2,
+      "width": 200,
+      "height": 200,
+      "loop": true,
+      "license": "original-project-asset"
+    }
+  ]
+}
